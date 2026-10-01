@@ -1,5 +1,4 @@
-# smart-campus-management-system
-A web-based Smart Campus Management System for managing student, faculty, academic, and administrative activities.
+
 # Smart Campus Management System
 
 A web-based Smart Campus Management System designed to streamline student, faculty, academic, and administrative activities within a college environment.
